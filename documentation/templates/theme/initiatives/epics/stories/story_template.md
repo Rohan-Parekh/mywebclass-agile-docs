@@ -6,11 +6,11 @@ By following this template, you can create user stories that are structured and 
 
 Acceptance Criteria:
 
-The order history page displays a list of all past orders, including the date, order number, and total cost.
-Each order in the list is clickable and leads to a detailed view of the order.
-The detailed view of the order includes the list of items purchased, the quantities, the prices, and any discounts applied.
-The order history page can be accessed from the customer account dashboard.
-The order history page is only accessible to authenticated customers.
+The documentation page should be accessible and viewable on all major web browsers, including Chrome, Firefox, and Safari.
+The page should be well-organized, with clear headings, subheadings, and paragraphs, to make it easy for users to navigate and find the information they need.
+The content on the page should be up-to-date and accurate, reflecting the latest technologies and courses offered on Mywebclass.org.
+The page should include step-by-step instructions and examples for how to use the various technologies and tools available on Mywebclass.org.
+The page should include links to additional resources, such as videos, tutorials, and help forums, to provide users with more in-depth information and support.
 
 
 # List Stories related to this theme
