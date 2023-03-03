@@ -40,4 +40,4 @@ User feedback and testing to ensure that the modules meet the needs of the users
 Team: [2 developers with experience in web development and e-learning technologies.]
 
 # List epics related to this theme
-1. [Epic 1](https://github.com/Rohan-Parekh/mywebclass-agile-docs/blob/main/documentation/templates/theme/initiatives/initiative_template.md)
+1. [Epic 1](https://github.com/Rohan-Parekh/mywebclass-agile-docs/blob/main/documentation/templates/theme/initiatives/epics/epic_template.md)
