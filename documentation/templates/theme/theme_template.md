@@ -4,4 +4,4 @@ As a teacher, I want to easily incorporate software engineering and advanced tec
 
 
 # List initiatives related to this theme
-1. [Initiative](documentation/templates/theme/initiatives/initiative_template.md)
+1. [Initiative](https://github.com/Rohan-Parekh/mywebclass-agile-docs/blob/main/documentation/templates/theme/initiatives/initiative_template.md)
