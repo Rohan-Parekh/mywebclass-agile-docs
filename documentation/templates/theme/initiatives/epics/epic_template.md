@@ -18,7 +18,7 @@ Learning modules not being effective in enhancing the learning experience
 Estimated Effort: 6 months
 
 Business Value: Improved learning outcomes for users
-Increased user engagement and retention rates
+Increased user engagement and retention rate
 
 Priority: High
 
