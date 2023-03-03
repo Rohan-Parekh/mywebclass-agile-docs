@@ -23,4 +23,4 @@ Increased user engagement and retention rate
 Priority: High
 
 # List stories related to this theme
-1. [Story 1](documentation/templates/theme/initiatives/epics/stories/story_template.md)
+1. [Story 1](https://github.com/Rohan-Parekh/mywebclass-agile-docs/blob/main/documentation/templates/theme/initiatives/epics/stories/story_template.md)
