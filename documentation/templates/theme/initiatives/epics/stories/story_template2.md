@@ -12,5 +12,5 @@ The resources are regularly updated and reviewed to ensure that they are accurat
 
 
 # List Stories related to this theme
-1. [Task 1](documentation/templates/theme/initiatives/epics/stories/tasks/task_template.md)
-2. [Task 2]
+1. [Task 1](https://github.com/Rohan-Parekh/mywebclass-agile-docs/blob/main/documentation/templates/theme/initiatives/epics/stories/tasks/task_template.md)
+2. [Task 2](https://github.com/Rohan-Parekh/mywebclass-agile-docs/blob/main/documentation/templates/theme/initiatives/epics/stories/tasks/task_template2.md)
