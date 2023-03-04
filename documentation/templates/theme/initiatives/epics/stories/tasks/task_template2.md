@@ -1,19 +1,20 @@
-Task Title: Develop a documentation page for Mywebclass.org
+Task Title: Develop a Landing Page for Mywebclass.org
 
-User Story: 
+User Story: As a new user, I want to see a landing page that showcases the features and benefits of Mywebclass.org, so that I can quickly understand what the platform has to offer.
 
-Description: As a teacher, I want to be able to access a documentation page on Mywebclass.org that provides information about the latest technologies and courses, so that I can stay up-to-date on best practices and new developments in education.
-This task involves developing a documentation page for Mywebclass.org that provides information about the latest technologies and courses in education. The page should be easy to navigate and should provide clear and concise information about each technology or course. Acceptance criteria include:
+Description: This task involves developing a landing page for Mywebclass.org that showcases the features and benefits of the platform. The landing page should be visually appealing and should provide clear and concise information about the platform's key features, such as course creation tools, student progress tracking, and collaborative learning features. Acceptance criteria include:
 
-The documentation page is well-organized and easy to navigate, with clear categories or sections for different technologies or courses.
-The information provided on the documentation page is clear, concise, and up-to-date.
-The documentation page is integrated with the Mywebclass.org platform and is easily accessible to users.
-Effort Estimate: 12 hours
+The landing page is visually appealing and uses engaging graphics or videos to highlight key features of the platform.
+The landing page provides clear and concise information about the platform's key features and benefits.
+The landing page is integrated with the Mywebclass.org platform and is easily accessible to users.
+Dependencies: None
+
+Effort Estimate: 10 hours
 
 Assigned To: Rohan Parekh
 
 Priority: High
 
-Status: In progress
+Status: Not started
 
 Notes: None
