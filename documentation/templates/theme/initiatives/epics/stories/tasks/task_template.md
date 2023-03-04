@@ -14,7 +14,7 @@ Priority: High
 
 Status: In progress
 
-Notes: None
+Notes: The development of the landing page is a critical component of the Mywebclass.org project, as it will be the first point of contact for many potential users. It is important that the landing page is visually appealing, easy to navigate, and effectively communicates the features and benefits of the platform. The testing plan should be comprehensive, including both automated and manual testing, to ensure that the landing page is functioning correctly and meeting the needs of users. Communication and collaboration among team members will be essential to ensure that the landing page is delivered on time and to a high standard.
 
 Automated Testing:
 
