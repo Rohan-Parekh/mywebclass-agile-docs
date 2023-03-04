@@ -15,7 +15,7 @@ Availability of subject matter experts to develop content for the learning modul
 Risks: Delay in development due to lack of resources
 Learning modules not being effective in enhancing the learning experience
 
-Estimated Effort: 6 months
+Estimated Effort: 24 hours
 
 Business Value: Improved learning outcomes for users
 Increased user engagement and retention rate
