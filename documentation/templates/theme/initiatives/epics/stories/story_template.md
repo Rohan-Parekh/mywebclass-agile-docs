@@ -14,4 +14,5 @@ The page should include links to additional resources, such as videos, tutorials
 
 
 # List Stories related to this theme
-1. [Stories 1](documentation/templates/theme/initiatives/epics/stories/tasks/task_template.md)
+1. [Task 1](https://github.com/Rohan-Parekh/mywebclass-agile-docs/blob/main/documentation/templates/theme/initiatives/epics/stories/tasks/task_template.md)
+2. [Task 2](https://github.com/Rohan-Parekh/mywebclass-agile-docs/blob/main/documentation/templates/theme/initiatives/epics/stories/tasks/task_template2.md)
